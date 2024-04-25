@@ -19,7 +19,7 @@ Starts Flowise from [DockerHub Image](https://hub.docker.com/repository/docker/f
         - FLOWISE_USERNAME=${FLOWISE_USERNAME}
         - FLOWISE_PASSWORD=${FLOWISE_PASSWORD}
     ```
-3. `docker-compose up -d`
+3. `docker-compose up -d`.
 4. Open [http://localhost:3000](http://localhost:3000)
 5. You can bring the containers down by `docker-compose stop`
 
