@@ -42,7 +42,7 @@ export const ChatMessage = ({ open, chatflowid, isDialog }) => {
     const [loading, setLoading] = useState(false)
     const [messages, setMessages] = useState([
         {
-            message: 'Hi there! How can I help?',
+            message: 'Hello! Im BuildVisionAI assistant. How can I help you today?',
             type: 'apiMessage'
         }
     ])
